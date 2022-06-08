@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&family=Raleway:ital,wght@0,500;1,300&family=Water+Brush&display=swap');
+
+.Card{
+        width: 40vmax;
+        height: 16vmax;
+        background: rgba(134, 73, 235, 0.99);
+        box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 29px;
+        margin-bottom: 5%;
+}

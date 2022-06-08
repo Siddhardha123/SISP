@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&family=Raleway:ital,wght@0,500;1,300&family=Water+Brush&display=swap');
+.Navlink {
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.5vmax;
+    line-height: 29px;
+}
+li :hover{
+    color: blueviolet;
+}
