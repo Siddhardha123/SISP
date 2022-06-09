@@ -5,6 +5,10 @@ body{
     background: rgba(107, 27, 238, 0.1);
 
 }
+.container{
+    height: 100%;
+
+}
 .leftDiv{
     top: 0;
     left: 0;
@@ -14,7 +18,7 @@ body{
 }
 .internshipText{
     position: absolute;
-        left: 10%;
+        left: 13%;
         top: 10%;
         font-family: 'Poppins';
         font-style: normal;
@@ -28,7 +32,7 @@ body{
     position: absolute;
         width: 23%;
         height: 6%;
-        left: 9%;
+        left: 13%;
         top: 20%;
         padding: 10px;
         font-size: 1.3vmax;
@@ -58,7 +62,7 @@ body{
 .InternCards{
     position: absolute;
     top: 30%;
-    left: 9%;
+    left: 13%;
     
 }
 .card1 .card2 .card3{
@@ -68,16 +72,17 @@ body{
 .rightDiv{
     position:  absolute;
     width: 50%;
-    top: 39%;
+    top: 0;
+    left: 50%;
     right: 0;
-    height: 120%;
+    height: 100%;
 }
 .upcoming{
 position: absolute;
     width: 100%;
     height: 50%;
-    left: 10%;
-    top: 100px;
+    left: -10%;
+    top: 55%;
     background: rgba(134, 73, 235, 0.99);
     box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
     border-radius: 44px;
