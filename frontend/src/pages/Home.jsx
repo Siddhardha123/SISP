@@ -1,5 +1,4 @@
 import React from "react";
-import Navbar from "../components/Navbar";
 import "./Home.css";
 import HomeIllus from "../assets/sid-removebg-preview 1.svg";
 const Home = () => {

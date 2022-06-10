@@ -3,7 +3,7 @@ import "../components/InternInfoCard.css";
 const InternInfoCard = (props) => {
   return (
     <div className='Card'>
-           <h1>{props.name}</h1>
+           <h1>{props.children}</h1>
     </div>
   )
 }

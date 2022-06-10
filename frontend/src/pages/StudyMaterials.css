@@ -1,0 +1,72 @@
+studymaterials-container{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.StudyText{
+
+    position: absolute;
+        left: 13%;
+        top: 10%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 3vw;
+        line-height: 10vh;
+    
+        color: #6B1BEE;
+}
+.firstdiv{
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    height: 25%;
+}
+.searchBarstudy {
+    position: absolute;
+    width: 23%;
+    height: 20%;
+    left: 12.5%;
+    top: 60%;
+    padding: 10px;
+    font-size: 1.3vmax;
+    background: rgba(245, 245, 245, 0.88);
+    box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+}
+.seconddiv{
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    top: 35%;
+}
+.thirddiv {
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    top: 90%;
+}
+.sub1{
+    font-weight: 900;
+}
+.subjectcards h1{
+    margin-top: 50%; 
+}
+.subcard1 ,.subcard2 ,.subcard3 {
+    position: absolute;
+    width: 20vw;
+    height: 40vh;
+    background: rgba(134, 73, 235, 0.99);
+    box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 29px;
+}
+.subcard1{  
+    left: 13%;
+}
+.subcard2 {
+    left: 39%;
+}
+.subcard3 {  
+    left: 65%;
+}
